@@ -1,9 +1,7 @@
-<img align="right" height="220" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif"/>
+<img align="right" height="210" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif"/>
 
 <div align="left">
-<br />
-<br />
-<br />
+<br /><br /><br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1E0E2&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wyatt+Matthew.;%F0%9F%9A%80+Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
 </div>
 
