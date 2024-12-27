@@ -52,6 +52,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=wyattmatt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-![snake gif](https://github.com/wyattmatt/wyattmatt/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/wyattmatt/wyattmatt/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://visitcount.itsvg.in/api?id=wyattmatt&icon=0&color=12)
