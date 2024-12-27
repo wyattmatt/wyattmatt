@@ -14,7 +14,7 @@
 <li>💬 Ask me about <strong>Python, HTML, & CSS</strong>
 <li>📫 How to reach me <strong>wyatt.honny06@gmail.com</strong>
 <li>📄 Know about my experiences <a href="https://wyattmatt.github.io/"><strong>My Resume</strong></a>
-<li>⚡ Fun fact <strong>Error on line 42, meanwhile it's empty</strong> 💀
+<li>⚡ Fun fact <strong>"Error on line 42, meanwhile it's empty</strong> 💀"
 
 
 <h1><br /> 🌐 Socials: </h1>
