@@ -37,7 +37,6 @@
 <h1><br /> 📊 Statistics: </h1>
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wyattmatt&show_icons=true&theme=dark&locale=en" alt="wyattmatt" /></p>
-<p> <br /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyattmatt&theme=dark" alt="wyattmatt" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyattmatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="wyattmatt" /><br /><br /></p>
 
