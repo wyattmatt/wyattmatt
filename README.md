@@ -9,7 +9,7 @@
 <li>🔭 I’m currently working on <strong>Website & App Development</strong>
 <li>👯 I’m looking to collaborate on <strong>Data Science Project</strong>
 <li>🤝 I’m looking for help with <strong>Data Analyst</strong>
-<li>🌱 I’m currently learning <strong>everything</strong> 🤣
+<li>🌱 I’m currently learning <strong>Everything</strong> 🤣
 <li>👨‍💻 All of my projects are available at <a href="https://wyattmatt.github.io/"><strong>My Portfolio</strong></a>
 <li>💬 Ask me about <strong>Python, HTML, & CSS</strong>
 <li>📫 How to reach me <strong>wyatt.honny06@gmail.com</strong>
