@@ -37,7 +37,7 @@
 <h1><br /> 📊 Statistics: </h1>
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wyattmatt&show_icons=true&theme=dark&locale=en" alt="wyattmatt" /></p>
-<p><br /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyattmatt&theme=dark" alt="wyattmatt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyattmatt&theme=dark" alt="wyattmatt" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyattmatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="wyattmatt" /><br /><br /></p>
 
 ### ✍️ Dev Quotes
@@ -51,5 +51,5 @@
 
 ---
 ![snake gif](https://github.com/wyattmatt/wyattmatt/blob/output/github-contribution-grid-snake-dark.svg)
-
-<p align="left"> <br /> <img src="https://komarev.com/ghpvc/?username=wyattmatt&label=Profile%20Views&color=e1e0e2&style=flat" alt="wyattmatt" /> </p>
+<br />
+<p align="left">&#8193<img src="https://komarev.com/ghpvc/?username=wyattmatt&label=Profile%20Views&color=e1e0e2&style=flat" alt="wyattmatt" /> </p>
