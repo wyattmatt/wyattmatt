@@ -49,7 +49,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wyattmatt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
+### 🐍 Contributions:
 ![snake gif](https://github.com/wyattmatt/wyattmatt/blob/output/github-contribution-grid-snake-dark.svg)
 <br />
 <p align="left">&#8193<img src="https://komarev.com/ghpvc/?username=wyattmatt&label=Profile%20Views&color=e1e0e2&style=flat" alt="wyattmatt" /> </p>
