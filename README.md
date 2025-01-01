@@ -1,34 +1,43 @@
-<img align="right" height="210" src="/images/computer.gif"/>
+<!DOCTYPE html>
+<html lang="en">
 
-<div align="left">
-<br /><br /><br />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1E0E2&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wyatt+Matthew.;%F0%9F%9A%80+Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
-</div>
+<body>
+  <div align="left">
+    <img align="right" height="230" src="/images/computer.gif"/>
+    <br><br><br><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1E0E2&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wyatt+Matthew.;%F0%9F%9A%80+Welcome+to+My+Github+Profile!" />
+  </div>
 
-<h1><br /><br /><br /> 💫 About Me: </h1>
-<li>🔭 I’m currently working on <strong>Website & App Development</strong>
-<li>👯 I’m looking to collaborate on <strong>Data Science Project</strong>
-<li>🤝 I’m looking for help with <strong>Data Analyst</strong>
-<li>🌱 I’m currently learning <strong>Everything</strong> 🤣
-<li>👨‍💻 All of my projects are available at <a href="https://wyattmatt.github.io/"><strong>My Portfolio</strong></a>
-<li>💬 Ask me about <strong>Python, HTML, & CSS</strong>
-<li>📫 How to reach me <strong>wyatt.honny06@gmail.com</strong>
-<li>📄 Know about my experiences <a href="https://wyattmatt.github.io/"><strong>My Resume</strong></a>
-<li>⚡ Fun fact <strong>"Error on line 42, meanwhile it's empty</strong> 💀"
-
+  <div>
+    <h1>
+      <br><br><br>
+      💫 About Me:
+    </h1>
+    <ul>
+      <li>🔭 I’m currently working on <strong>Website & App Development</strong>
+      <li>👯 I’m looking to collaborate on <strong>Data Science Project</strong>
+      <li>🤝 I’m looking for help with <strong>Data Analyst</strong>
+      <li>🌱 I’m currently learning <strong>Everything</strong> 🤣
+      <li>👨‍💻 All of my projects are available at <a href="https://wyattmatt.github.io/"><strong>My Portfolio</strong></a>
+      <li>💬 Ask me about <strong>Python, HTML, & CSS</strong>
+      <li>📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wyatt.honny06@gmail.com"><strong>wyatt.honny06@gmail.com</strong></a>
+      <li>📄 Know about my experiences <a href="https://wyattmatt.github.io/"><strong>My Resume</strong></a>
+      <li>⚡ Fun fact "<strong>Error on line 42, meanwhile it’s empty</strong> 💀"
+    </ul>
+  </div>
 
 <h1><br /> 🌐 Socials: </h1>
 <p align="left">
-<a href="https://github.com/wyattmatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="wyattmatt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wyatt-matthew-hargono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyatt-matthew-hargono" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27706507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27706507" height="30" width="40" /></a>
-<a href="https://fb.com/wyattmatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wyattmatt" height="30" width="40" /></a>
-<a href="https://wa.me/+62852251460299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wyattmatt" height="30" width="40" /></a>
-<a href="https://instagram.com/wyattmatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyattmatt" height="30" width="40" /></a>
-<a href="https://twitter.com/hargonowyatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hargonowyatt" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@diff09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wyattmatt" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Fun_Use_5529/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="wyattmatt" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31ggwu5ulppduhztnpoldijsikna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="wyattmatt" height="30" width="40" /></a>
+<a href="https://github.com/wyattmatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="wyattmatt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wyatt-matthew-hargono" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyatt-matthew-hargono" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27706507" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27706507" height="30" width="40" /></a>
+<a href="https://fb.com/wyattmatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wyattmatt" height="30" width="40" /></a>
+<a href="https://wa.me/+62852251460299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wyattmatt" height="30" width="40" /></a>
+<a href="https://instagram.com/wyattmatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyattmatt" height="30" width="40" /></a>
+<a href="https://twitter.com/hargonowyatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hargonowyatt" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@diff09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wyattmatt" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Fun_Use_5529/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="wyattmatt" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31ggwu5ulppduhztnpoldijsikna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="wyattmatt" height="30" width="40" /></a>
 <br /><br /><br />
 </p>
 
@@ -53,3 +62,6 @@
 ![snake gif](https://github.com/wyattmatt/wyattmatt/blob/output/github-contribution-grid-snake-dark.svg)
 <br />
 <p align="left">&#8193<img src="https://komarev.com/ghpvc/?username=wyattmatt&label=Profile%20Views&color=e1e0e2&style=flat" alt="wyattmatt" /> </p>
+</body>
+
+</html>
