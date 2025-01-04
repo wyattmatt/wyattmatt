@@ -20,7 +20,7 @@
       <li>🌱 I’m currently learning <strong>Everything</strong> 🤣
       <li>👨‍💻 All of my projects are available at <a href="https://wyattmatt.github.io/"><strong>My Portfolio</strong></a>
       <li>💬 Ask me about <strong>Python, HTML, & CSS</strong>
-      <li>📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wyatt.honny06@gmail.com"><strong>wyatt.honny06@gmail.com</strong></a>
+      <li>📫 How to reach me <a href="mailto:wyatt.honny06@gmail.com"><strong>wyatt.honny06@gmail.com</strong></a>
       <li>📄 Know about my experiences <a href="https://wyattmatt.github.io/"><strong>My Resume</strong></a>
       <li>⚡ Fun fact "<strong>Error on line 42, meanwhile it’s empty</strong> 💀"
     </ul>
