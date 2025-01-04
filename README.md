@@ -29,7 +29,7 @@
   <div align="left">
     <h1>
       <br>
-      🌐 Socials:
+      🌐 Socials/Industry:
     </h1>
     <p>
       <a href="https://github.com/wyattmatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="wyattmatt" height="30" width="40" padding="10" /></a>
