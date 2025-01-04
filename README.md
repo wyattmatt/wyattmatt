@@ -3,7 +3,7 @@
 
 <body>
   <div align="left">
-    <img align="right" height="230" src="/images/computer.gif"/>
+    <img align="right" height="210" src="/images/computer.gif"/>
     <br><br><br><br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1E0E2&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wyatt+Matthew.;%F0%9F%9A%80+Welcome+to+My+Github+Profile!" />
   </div>
