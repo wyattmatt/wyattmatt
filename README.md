@@ -32,7 +32,7 @@
       🌐 Socials:
     </h1>
     <p>
-      <a href="https://github.com/wyattmatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="wyattmatt" height="30" width="40" margin-bottom="10px" /></a>
+      <a href="https://github.com/wyattmatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="wyattmatt" height="30" width="40" margin-bottom="10" /></a>
       <a href="https://linkedin.com/in/wyatt-matthew-hargono" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyatt-matthew-hargono" height="30" width="40" /></a>
       <a href="https://stackoverflow.com/users/27706507" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27706507" height="30" width="40" /></a>
       <a href="https://fb.com/wyattmatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wyattmatt" height="30" width="40" /></a>
