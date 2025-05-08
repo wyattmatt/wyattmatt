@@ -8,7 +8,7 @@
     </picture>
     <br><br><br><br>
     <picture>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1E0E2&width=435&lines=&nbsp+Hi+%F0%9F%91%8B%2C+I'm+Wyatt+Matthew.;&nbsp+%F0%9F%9A%80+Welcome+to+My+Github+Profile!" alt="introduction" />
+      <img src="/images/introduction/welcome.svg" alt="introduction" />
     </picture>
   </div>
 
