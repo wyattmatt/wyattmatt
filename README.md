@@ -8,7 +8,7 @@
     </picture>
     <br><br><br><br>
     <picture>
-      <img src="/images/introduction/welcome.svg" alt="introduction" />
+      <p>$nbsp;<img src="/images/introduction/welcome.svg" alt="introduction" /></p>
     </picture>
   </div>
 
