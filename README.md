@@ -273,10 +273,3 @@
 
 ### 🐍 Contributions:
 [![snakeGif](https://github.com/wyattmatt/wyattmatt/blob/output/github-contribution-grid-snake-dark.svg)](#---)
-
-<br>
-<p align="left">
-  <picture>
-    &#8193<img src="https://komarev.com/ghpvc/?username=wyattmatt&label=Profile%20Views&color=e1e0e2&style=flat" alt="profileViews" />
-  </picture>
-</p>
