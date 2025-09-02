@@ -12,7 +12,7 @@
     </picture>
     <br><br><br><br>
     <picture>
-      <p>$nbsp;<img src="/images/introduction/welcome.svg" alt="introduction" /></p>
+      <p>&emsp;&emsp;<img src="/images/introduction/welcome.svg" alt="introduction" /></p>
     </picture>
   </div>
 
